@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @wikiyu - Wiktor Jędrzejczak
 - 👀 I’m dotnet dev and like to code everything that i can touch... microcontrollers, washing machine, coffee maker (doppio please)... oh and PCs, right.
-- 🌱 I’m currently learning github actions
